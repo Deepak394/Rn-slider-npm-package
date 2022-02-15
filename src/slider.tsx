@@ -1,5 +1,5 @@
-function Print() {
-    console.log("Function>>>>>>>>>>>>>Working");
+const Print = () => {
+    console.log("function>>>>>>>>>>>>Working");
 }
 
 export default Print;
